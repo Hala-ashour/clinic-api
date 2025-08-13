@@ -12,10 +12,13 @@ A Django REST Framework API for managing medical appointments between doctors an
 1. Clone repo:
    `bash
    git clone https://github.com/hala-ashour/clinic-api.git
+   
    cd repo
 
 ## requrimants 
  python 3.10+
+ 
  django 4.2+
+ 
  DRF
  simplejwt
