@@ -1,0 +1,40 @@
+# Django
+*.log
+*.pot
+*.pyc
+pycache/
+db.sqlite3
+media/
+staticfiles/
+
+# إعدادات محلية
+local_settings.py
+.env
+.env.local
+.env.*.local
+secrets.json
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
+
+# MySQL
+*.mysql
+*.mysql-bin
+*.mysql-bin.index
+# ملفات البيئة
+.env
+.env.*
+!.env.example  # استثناء ملف مثال يمكن مشاركته
